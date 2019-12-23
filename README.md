@@ -9,6 +9,8 @@ As seen from the webpage, the table is filtered by date, city, state, country an
 
 ![webpage1](https://github.com/Thinguyen23/Thi_UFOs/blob/master/illustrators/webpage1.png)
 
+In this picture, the input date is "1/1/2010", state is "ca", and shape is "triangle"
+
 ![webpage2](https://github.com/Thinguyen23/Thi_UFOs/blob/master/illustrators/webpage2.png)
 
 
