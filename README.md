@@ -7,9 +7,9 @@ We start by building a table to hold and dispay the data stored in a JavaScript 
 
 As seen from the webpage, the table is filtered by date, city, state, country and shape. The ability to pinpoint a search by these filters would go a long way in providing more in-depth analysis of UFO sightings.
 
-              ![webpage1](https://github.com/Thinguyen23/Thi_UFOs/blob/master/illustrators/webpage1.png)
+![webpage1](https://github.com/Thinguyen23/Thi_UFOs/blob/master/illustrators/webpage1.png)
 
-              ![webpage2](https://github.com/Thinguyen23/Thi_UFOs/blob/master/illustrators/webpage2.png)
+![webpage2](https://github.com/Thinguyen23/Thi_UFOs/blob/master/illustrators/webpage2.png)
 
 
 ### Recommendation for further development
